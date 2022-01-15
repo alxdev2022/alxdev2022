@@ -11,6 +11,10 @@
 - https://discord.gg/UjBykFZag6
  
 #### Servers I Have Worked On
+- Milky RZ (Old one)
 - Flexed RZ
-- Milky RZ
-- Streets RZ
+- Venom RZ (set it up and fixed things)
+- Flexing RP
+- Blick RP
+- Hatin RP
+- Flex Or Die RP
