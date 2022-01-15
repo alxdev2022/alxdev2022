@@ -8,7 +8,8 @@
 - 👨‍ Join the discord for more information! https://discord.gg/vw8S79Y9Dc
 
 #### Join the servers I own
-
+- https://discord.gg/UjBykFZag6
+ 
 #### Servers I Have Worked On
 - Flexed RZ
 - Milky RZ
