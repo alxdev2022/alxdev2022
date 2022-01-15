@@ -1,6 +1,6 @@
-Hi im Alx 👋
+## Hi im Alx 👋
 
-**About me:**
+## About me:
 
 🔭 I’m currently working on: FiveM Developing & learning further into Lua.
 👨‍💻 Join the discord for more updates! https://discord.gg/vw8S79Y9Dc
