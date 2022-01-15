@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @alxdev2022
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi im Alx 👋
 
-<!---
-alxdev2022/alxdev2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**About me:**
+
+🔭 I’m currently working on: FiveM Developing & learning further into Lua.
+👨‍💻 Join the discord for more updates! https://discord.gg/vw8S79Y9Dc
+🖥️ Check us out here! https://discord.gg/vw8S79Y9Dc
+👨‍ Join the discord for more information! https://discord.gg/vw8S79Y9Dc
+
+Join the servers I own
+
+Servers I Have Worked On
+Flexed RZ
+Milky RZ
+Streets RZ
