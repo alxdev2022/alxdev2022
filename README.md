@@ -1,4 +1,4 @@
-## Hi im Alx 👋
+# Hi im Alx 👋
 
 ## About me:
 
